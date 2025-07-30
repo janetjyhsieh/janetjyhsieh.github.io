@@ -1,22 +1,19 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Vulnerability of Text-Matching in ML/AI Conference Reviewer Assignments to Collusions
+    authors: <strong>Jhih-Yi (Janet) Hsieh</strong>, Aditi Raghunathan, Nihar B. Shah
+    conference_short: USENIX Sec
+    conference: The USENIX Security Symposium <strong>(USENIX Sec)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2412.06606
+    code: https://zenodo.org/records/15694531
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Mathematical Justification of Hard Negative Mining via Isometric Approximation Theorem
+    authors: Albert Xu, <strong>Jhih-Yi Hsieh</strong>, Bhaskar Vundurthy, Nithya Kemp, Eliana Cohen, Lu Li, Howie Choset
+    conference_short: ICLR
+    conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://openreview.net/pdf?id=udO3k28bEw
+
+  - title: On Trade-Offs Between Fairness, Robustness, and Privacy Through Tilted Losses
+    authors: <strong>Jhih-Yi Hsieh</strong>, Advised by Tian Li and Virginia Smith
+    conference: Undergraduate Thesis, Technical Report, 2023
+    pdf: https://drive.google.com/file/d/1wER2vjsDH-vEhrDG1YY1509G1pGSRiIG/view?usp=sharing
