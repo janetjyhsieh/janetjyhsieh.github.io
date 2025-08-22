@@ -4,8 +4,12 @@ main:
     authors: <strong>Jhih-Yi (Janet) Hsieh</strong>, Aditi Raghunathan, Nihar B. Shah
     conference_short: USENIX Sec
     conference: The USENIX Security Symposium <strong>(USENIX Sec)</strong>, 2025.
+    other_venues:
+      - name: (Non-archival) Championing Open-source DEvelopment in Machine Learning Workshop at ICML <strong>(CODEML)</strong>, 2025.
+      - name: (Long abstract) International Congress on Peer Review and Scientific Publication, 2025.
+      - name: (Poster) NSF AI-SDM Workshop on Human-AI Complementarity for Decision Making, 2025.
     pdf: https://arxiv.org/pdf/2412.06606
-    code: https://zenodo.org/records/15694531
+    code: https://doi.org/10.5281/zenodo.15588237
 
   - title: Mathematical Justification of Hard Negative Mining via Isometric Approximation Theorem
     authors: Albert Xu, <strong>Jhih-Yi Hsieh</strong>, Bhaskar Vundurthy, Nithya Kemp, Eliana Cohen, Lu Li, Howie Choset

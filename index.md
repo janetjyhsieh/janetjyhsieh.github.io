@@ -11,7 +11,8 @@ I graduated from Carnegie Mellon University with a Master's in Computer Science 
 I'm interested in pursuing responsible AI designs in three ways: (1) the safety and fairness of AI models and their down-stream deployments, (2) beneficial human-AI collaboration, and (3) technical AI governance. 
 
 ## News
-
-- **[June. 2025]** Our paper about vulnerabilities in peer reviewer matching is accepted to USENIX Security 2025.
+- **[September 2025]** I will be presenting a poster of our work on vulnerabilities in peer reviewer matching at the International Congress on Peer Review and Scientific Publication, 2025.
+- **[August 2025]** I will be speaking at the USENIX Security Symposium 2025 about our accepted paper. 
+- **[June 2025]** Our paper about vulnerabilities in peer reviewer matching is accepted to USENIX Security 2025.
 
 {% include_relative _includes/publications.md %}
