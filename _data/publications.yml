@@ -10,14 +10,19 @@ main:
       - name: (Poster) NSF AI-SDM Workshop on Human-AI Complementarity for Decision Making, 2025.
     pdf: https://arxiv.org/pdf/2412.06606
     code: https://doi.org/10.5281/zenodo.15588237
+    poster: assets/files/reviewer-assignment-vulnerability-poster.pdf
+    video: https://drive.google.com/file/d/1OdvUpT-6A5cQXU1BR0Wjow34_BbLM2lP/view?usp=share_link
+    slides: https://drive.google.com/file/d/1FmZvFc4ZOw9zCOjLNqnMG_wgT9il07E8/view?usp=share_link
 
   - title: Mathematical Justification of Hard Negative Mining via Isometric Approximation Theorem
     authors: Albert Xu, <strong>Jhih-Yi Hsieh</strong>, Bhaskar Vundurthy, Nithya Kemp, Eliana Cohen, Lu Li, Howie Choset
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://openreview.net/pdf?id=udO3k28bEw
+    poster: https://iclr.cc/virtual/2024/poster/17568
 
   - title: On Trade-Offs Between Fairness, Robustness, and Privacy Through Tilted Losses
     authors: <strong>Jhih-Yi Hsieh</strong>, Advised by Tian Li and Virginia Smith
     conference: Undergraduate Thesis, Technical Report, 2023
     pdf: https://drive.google.com/file/d/1wER2vjsDH-vEhrDG1YY1509G1pGSRiIG/view?usp=sharing
+    poster: https://symposium.foragerone.com/meeting-of-the-minds-2023/presentations/52016
