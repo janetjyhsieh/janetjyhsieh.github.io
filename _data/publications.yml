@@ -8,11 +8,11 @@ main:
       - name: (Non-archival) Championing Open-source DEvelopment in Machine Learning Workshop at ICML <strong>(CODEML)</strong>, 2025.
       - name: (Long abstract) International Congress on Peer Review and Scientific Publication, 2025.
       - name: (Poster) NSF AI-SDM Workshop on Human-AI Complementarity for Decision Making, 2025.
-    pdf: https://arxiv.org/pdf/2412.06606
+    pdf: https://www.usenix.org/system/files/usenixsecurity25-hsieh.pdf
     code: https://doi.org/10.5281/zenodo.15588237
     poster: assets/files/reviewer-assignment-vulnerability-poster.pdf
-    video: https://drive.google.com/file/d/1OdvUpT-6A5cQXU1BR0Wjow34_BbLM2lP/view?usp=share_link
-    slides: https://drive.google.com/file/d/1FmZvFc4ZOw9zCOjLNqnMG_wgT9il07E8/view?usp=share_link
+    video: https://youtu.be/FtN3OLD0gMM?si=kXnHIal6rZav5oSI
+    slides: https://www.usenix.org/system/files/sec25_slides_hsieh.pdf
 
   - title: Mathematical Justification of Hard Negative Mining via Isometric Approximation Theorem
     authors: Albert Xu, <strong>Jhih-Yi Hsieh</strong>, Bhaskar Vundurthy, Nithya Kemp, Eliana Cohen, Lu Li, Howie Choset
