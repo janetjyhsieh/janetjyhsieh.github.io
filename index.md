@@ -8,9 +8,7 @@ I graduated from Carnegie Mellon University with a Master's in Computer Science 
 
 ## Research Interests
 
-My research goal is to ensure such social-technical systems are responsible, fair, and diverse. I am interested in investigating two connected aspects of human-AI interaction: (i) measuring and mitigating social-technical harms, and (ii) alignment of AI models with diverse human values. 
-
-In addition to answering foundational questions, I am very passionate about studying real societal applications such as metascience, hiring decisions, combating misinformation, and healthcare. I would also like to think about how my research can inform policy.
+My research goal is to ensure such social-technical systems are responsible, fair, and diverse. I am interested in investigating two connected aspects of human-AI interaction: (i) measuring and mitigating social-technical harms, and (ii) alignment of AI models with diverse human values. I am very passionate about studying real societal applications, and I would also like to think about how my research can inform policy.
 
 ## News
 - **[October 2025]** I have been accepted to the KODAQS (Competence Center for Data Quality in the Social Sciences) Guest Researcher Program and will be visiting Munich, Germany for three weeks between Jan-Feb 2026, hosted by [Fiona Draxler](https://www.sowi.uni-mannheim.de/keusch/team/academic-staff-members/draxler-fiona).
